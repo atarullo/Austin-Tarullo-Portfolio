@@ -5,3 +5,9 @@
 ##### K-Nearest Neighbors Exploration
 
 ![](/images/rec_image.png)
+
+
+# [Determining All-Star Game Snubs](https://github.com/atarullo/Austin_Tarullo_Portfolio)
+#### Use XGBoost to determine sho should've--and who shouldn't have--made the 2021 NBA All-Star Game.
+
+![](/images/jb.jpg)
