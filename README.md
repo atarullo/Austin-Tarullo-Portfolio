@@ -6,11 +6,13 @@
 ![](/images/fenway.png)
 
 
+
 ## [Adding Weights to Recommendation Algorithms](https://github.com/atarullo/Austin_Tarullo_Portfolio/tree/main/KNN)
 #### How can we add weights to more compelling variables in order to effectively recommend products?
 ##### K-Nearest Neighbors Exploration
 
 ![](/images/rec_image.png)
+
 
 
 ## [Determining All-Star Game Snubs](https://github.com/atarullo/Austin_Tarullo_Portfolio/tree/main/NBA)
