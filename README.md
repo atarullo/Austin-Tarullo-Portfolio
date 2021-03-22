@@ -15,6 +15,13 @@
 
 
 
+## [Assessing the Merits of the NBA's "One & Done" Rule](https://github.com/atarullo/Austin_Tarullo_Portfolio/tree/main/One & Done)
+#### Do players benefit by attending college for a year rather than declaring for the NBA draft out of high school?
+
+![](/images/lebron.jpg)
+
+
+
 ## [Determining All-Star Game Snubs](https://github.com/atarullo/Austin_Tarullo_Portfolio/tree/main/NBA)
 #### Using XGBoost to determine who should've—and who shouldn't have—made the 2021 NBA All-Star Game.
 
