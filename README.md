@@ -15,7 +15,7 @@
 
 
 
-## [Assessing the Merits of the NBA's "One & Done" Rule](https://github.com/atarullo/Austin_Tarullo_Portfolio/tree/main/One & Done)
+## [Assessing the Merits of the NBA's "One & Done" Rule](https://github.com/atarullo/Austin_Tarullo_Portfolio/tree/main/One&Done)
 #### Do players benefit by attending college for a year rather than declaring for the NBA draft out of high school?
 
 ![](/images/lebron.jpg)
