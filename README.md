@@ -20,6 +20,11 @@
 
 ![](/images/jb.jpg)
 
+## [Truckers Atlas Homepage](https://www.truckers-atlas.com/home/)
+#### Simple website I built for a close friend who's an incredible musician. Experimented with Django and Heroku--more to come once the album's released!
+
+
+![](/images/TruckersAtlas.jpg)
 
 
 ## [“The Most Racist City”: Factors Leading to Low Black Representation in the Student Bodies of Boston’s Elite Colleges](http://ceconforum.org/2019/06/07/the-most-racist-city-factors-leading-to-low-black-representation-in-the-student-bodies-of-bostons-elite-colleges/)
